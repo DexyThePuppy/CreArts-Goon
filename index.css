@@ -16,23 +16,23 @@
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
-@import url("https://raw.githack.com/CorellanStoma/CreArts-Theme/theme/powercord.css");
+@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/powercord.css");
+
+@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/animated-home-button.css");
 
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
 
-@import url("https://raw.githack.com/CorellanStoma/CreArts-Theme/assets/animated-home-button.css");
-
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-/*||| Remove Elements ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||| Removed Elements |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 /* Removed the Nitro & Gif Button in the Chatbox. Gifs can still be selected using the Emoji button. */
-@import url("https://raw.githack.com/CorellanStoma/CreArts-Theme/assets/remove-gif-nitro-chat.css");
+@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/remove-gif-nitro-chat.css");
 
 /* Removed the Nitro home button, the nitro menu can still be accessed via the settings. */
-@import url("https://raw.githack.com/CorellanStoma/CreArts-Theme/assets/remove-nitro-home.css");
+@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/remove-nitro-home.css");
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
