@@ -9,18 +9,6 @@ The theme can be used for Powercord and as web a version.
 
 ## Editions
 
-### Default
-![Default](https://i.imgur.com/aK8k32J.png)
-
-### Discord Default
-![Discord Defalut](https://i.imgur.com/st6MMC9.png)
-
-### Discord Revamp
-![Discord Revamp](https://i.imgur.com/195eQlB.png)
-
-### Guilded
-![Guilded](https://i.imgur.com/gYOqMWf.png)
-
 ### Spotify
 ![Spotify](https://i.imgur.com/MDqZrlG.png)
 
