@@ -1,0 +1,104 @@
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*|||                                                                                               ||||||||*/
+/*||| This is the official CreArts theme created by CorellanStoma#1996                              ||||||||*/
+/*|||                                                                                               ||||||||*/
+/*||| CreArts Theme v1.2 (Beta) (Spotify Edition)                                                   ||||||||*/
+/*|||                                                                                               ||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||| Theme ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+@import url("https://raw.githack.com/CorellanStoma/CreArts-Theme/theme/powercord.css");
+
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
+
+@import url("https://raw.githack.com/CorellanStoma/CreArts-Theme/assets/animated-home-button.css");
+
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||| Remove Elements ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+/* Removed the Nitro & Gif Button in the Chatbox. Gifs can still be selected using the Emoji button. */
+@import url("https://raw.githack.com/CorellanStoma/CreArts-Theme/assets/remove-gif-nitro-chat.css");
+
+/* Removed the Nitro home button, the nitro menu can still be accessed via the settings. */
+@import url("https://raw.githack.com/CorellanStoma/CreArts-Theme/assets/remove-nitro-home.css");
+
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||| Theme Settings |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+.theme-dark,
+:root {
+
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+/* Blurple Recolor */
+    --accentcolor: 4,216,105;
+    --linkcolor: 4,216,105;
+
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+/* Font */
+    --font: 'Oxygen';
+
+/* Accent */
+    --Color001: #04D869 !important;
+
+/* Gray */
+    --Color002: #33393D !important;
+	--Color003: #262A2D !important;
+	--Color004: #202427 !important;
+	--Color005: #1A1D20 !important;
+	
+/* Text */	
+	--Color006: #FFFFFF !important;
+	--Color007: #DCDDDE !important;
+	--Color008: #b9bbbe !important;
+	--Color009: #4F5459 !important;
+    --Color010: #43B581 !important;
+    
+/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
+
+    --background-accent: var(--Color001) !important;
+    --background-primary: var(--Color004) !important;
+    --background-secondary: var(--Color005) !important;
+    --background-secondary-alt: var(--Color002) !important;
+    --background-tertiary: var(--Color005) !important;
+    --background-floating: var(--Color005) !important;
+    --offline-color: var(--Color004) !important;
+  
+    --text-normal: var(--Color007) !important; 
+    --text-muted: var(--Color009) !important;
+  
+    --channels-default: var(--Color008) !important;
+    --interactive-normal: var(--Color008) !important;
+    --interactive-hover: var(--Color006) !important;
+    --interactive-active: var(--Color006) !important;
+    --interactive-muted: var(--Color009) !important;
+   
+    --background-modifier-hover: var(--Color004) !important;
+    --background-modifier-active: var(--Color004) !important;
+    --background-modifier-selected: var(--Color001) !important;
+    --background-modifier-accent: var(--Color002) !important;
+    --channeltextarea-background: var(--Color001) !important;
+    --deprecated-card-bg: var(--Color004) !important;
+    --deprecated-card-editable-bg: var(--Color004) !important;
+    --activity-card-background: var(--Color004) !important;
+   
+    --header-secondary: var(--Color008) !important;
+  
+    --channel-list: var(--Color003) !important;
+}
