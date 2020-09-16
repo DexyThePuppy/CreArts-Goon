@@ -190,48 +190,6 @@
 
     --mobile-home-normal: var(--Color008);
     --mobile-home-active: var(--Color006);
-
-/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-/*||| Variables ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-/*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
-
-    --background-primary: var(--Color004);
-    --background-secondary: var(--Color005);
-    --background-secondary-alt: var(--Color002);
-    --background-tertiary: var(--Color005);
-    --background-accent: var(--Color001);
-    --background-floating: var(--Color005);
-    --background-modifier-hover: var(--Color004);
-    --background-modifier-active: var(--Color004);
-    --background-modifier-selected: var(--Color001);
-    --background-modifier-accent: var(--Color002);
-    --channeltextarea-background: var(--Color001);
-    --deprecated-card-bg: var(--Color004);
-    --deprecated-card-editable-bg: var(--Color004);
-    --deprecated-text-input-bg: var(--Color005);
-    --deprecated-text-input-border: var(--Color005);
-    --deprecated-text-input-border-disabled: var(--Color005);
-    --activity-card-background: var(--Color004);
-    --channels-default: var(--Color004);
-    --text-muted: var(--Color009);
-    --text-normal: var(--Color006); 
-    --interactive-normal: var(--Color008);
-    --interactive-hover: var(--Color006);
-    --interactive-active: var(--Color006);
-    --interactive-muted: var(--Color009);
-    --header-primary: var(--Color006);
-    --toast-background: var(--Color006);
-    --toast-header: var(--Color005);
-    --toast-contents: var(--Color006);
-    --toast-box-shadow: rgba(0, 0, 0, .2);
-    --toast-border: var(--Color005);
-    --activity-card-background: var(--Color004);
-    --header-secondary: var(--Color008);
-    --channel-list: var(--Color003);
-    --offline-color: var(--Color004);
-    --text-normal: var(--Color007); 
-    --text-muted: var(--Color009);
-    --channels-default: var(--Color008);
 }
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
