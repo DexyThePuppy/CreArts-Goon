@@ -3,7 +3,6 @@
 # CreArts Theme v1.2.1 (Beta) (Spotify Edition)
 
 This is my first discord theme, it's a round theme for Discord. The theme is currently still in the beta phase.
-The theme can be used for Powercord and as web a version.
 
 ![Preview](https://i.imgur.com/XJ1uDoR.png)
 
