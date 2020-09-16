@@ -7,15 +7,9 @@ The theme can be used for Powercord and as web a version.
 
 ![Preview](https://i.imgur.com/XJ1uDoR.png)
 
-## Editions
+## Preview
 
-### Spotify
 ![Spotify](https://i.imgur.com/MDqZrlG.png)
 
 ## Instalation
 Coming Soon
-
-### Powercord
-
-### Web
-
