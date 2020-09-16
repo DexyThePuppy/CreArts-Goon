@@ -1,4 +1,4 @@
- ![Discord](https://discordapp.com/api/guilds/534376415202639903/embed.png) ![GitHub](https://img.shields.io/github/license/CorellanStoma/CreArts-Theme)
+ ![Discord](https://discordapp.com/api/guilds/534376415202639903/embed.png) ![GitHub](https://img.shields.io/github/license/CorellanStoma/CreArts-Spotify)
 
 # CreArts Theme 1.2 (Beta) (Spotify Edition)
 
