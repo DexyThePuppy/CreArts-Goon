@@ -36,7 +36,7 @@
 @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/windows-titlebar.css");
 
 /* Add-Ons | Mobile Home */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/mobile-home.css");
+/*@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/mobile-home.css");*/
 
 /* Add-Ons | Mobile Menu */
 @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/mobile-menu.css");
@@ -61,7 +61,7 @@
 @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/icons-hover.css");
 
 /* Animated | Chat Highlight */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/chat-highlight.css");
+/*@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/chat-highlight.css");*/
 
 /* Animated | Channel Highlight */
 @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/channel-highlight.css");
@@ -77,22 +77,22 @@
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 /* Removed | Removed the Edited label. */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/edited.css");
+/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/edited.css"); */
 
 /* Removed | Removed the Nitro home button, the nitro menu can still be accessed via the settings. */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/nitro-home.css");
+/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/nitro-home.css"); */
 
 /* Removed | Removed the chat header at the beginning of the chat. */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/chat-header.css");
+/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/chat-header.css"); */
 
 /* Removed | Removed the Nitro & Gif Button in the Chatbox. Gifs can still be selected using the Emoji button. */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/gif-nitro-chat.css");
+/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/gif-nitro-chat.css"); */
 
 /* Removed | Removed the closed folder background. */
 @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/closed-folder-background.css");
 
 /* Removed | Removed the Note on the User Profile. */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/removed-profile-note.css");
+/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/removed-profile-note.css"); */
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Database |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
