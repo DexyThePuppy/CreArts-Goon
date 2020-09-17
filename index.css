@@ -4,14 +4,14 @@
 /*|||                                                                                               ||||||||*/
 /*||| This is the official CreArts theme created by CorellanStoma#1996                              ||||||||*/
 /*|||                                                                                               ||||||||*/
-/*||| CreArts v1.2.1 (Beta) (Spotify Edition)                                                       ||||||||*/
+/*||| CreArts v1.2.2 (Beta) (Spotify Edition)                                                       ||||||||*/
 /*|||                                                                                               ||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 /* CreArts Theme (Powercord)*/
-@import url('https://raw.githack.com/CorellanStoma/Powercord/assets/powercord.css');
+@import url('https://corellanstoma.github.io/Powercord/powercord.css');
 
 /* Adding USRBG Support */
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
@@ -24,85 +24,85 @@
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 /* Add-Ons | Big Avatar */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/big-avatar.css");
+@import url("https://corellanstoma.github.io/Powercord/Addons/big-avatar.css");
 
 /* Add-Ons | Old Status Indicator */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/old-status-indicator.css");
+@import url("https://corellanstoma.github.io/Powercord/Addons/old-status-indicator.css");
 
 /* Add-Ons | Yellow Permissons */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/yellow-permissions.css");
+@import url("https://corellanstoma.github.io/Powercord/Addons/yellow-permissions.css");
 
 /* Add-Ons | Windows Titlebar */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/windows-titlebar.css");
+@import url("https://corellanstoma.github.io/Powercord/Addons/windows-titlebar.css");
 
 /* Add-Ons | Mobile Home */
-/*@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/mobile-home.css");*/
+/*@import url("https://corellanstoma.github.io/Powercord/Addons/mobile-home.css");*/
 
 /* Add-Ons | Mobile Menu */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/mobile-menu.css");
+@import url("https://corellanstoma.github.io/Powercord/Addons/mobile-menu.css");
 
 /* Add-Ons | Autocomplete Scrollable */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/autocomplete-scrollable.css");
+@import url("https://corellanstoma.github.io/Powercord/Addons/autocomplete-scrollable.css");
 
 /* Add-Ons | Mention Color*/
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/mention-color.css");
+@import url("https://corellanstoma.github.io/Powercord/Addons/mention-color.css");
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Animated |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 /* Animated | Ping */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/ping.css");
+@import url("https://corellanstoma.github.io/Powercord/Animated/ping.css");
 
 /* Animated | Home Button */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/home-button.css");
+@import url("https://corellanstoma.github.io/Powercord/Animated/home-button.css");
 
 /* Animated | Avatar Hover */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/avatar-hover.css");
+@import url("https://corellanstoma.github.io/Powercord/Animated/avatar-hover.css");
 
 /* Animated | Icons Hover */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/icons-hover.css");
+@import url("https://corellanstoma.github.io/Powercord/Animated/icons-hover.css");
 
 /* Animated | Chat Highlight */
-/*@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/chat-highlight.css");*/
+/*@import url("https://corellanstoma.github.io/Powercord/Animated/chat-highlight.css");*/
 
 /* Animated | Channel Highlight */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/channel-highlight.css");
+@import url("https://corellanstoma.github.io/Powercord/Animated/channel-highlight.css");
 
 /* Animated | Profile Badge */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/profile-badge.css");
+@import url("https://corellanstoma.github.io/Powercord/Animated/profile-badge.css");
 
 /* Animated | Card Hover */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/card-hover.css");
+@import url("https://corellanstoma.github.io/Powercord/Animated/card-hover.css");
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Removed ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 /* Removed | Removed the Edited label. */
-/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/edited.css"); */
+/* @import url("https://corellanstoma.github.io/Powercord/Removed/edited.css"); */
 
 /* Removed | Removed the Nitro home button, the nitro menu can still be accessed via the settings. */
-/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/nitro-home.css"); */
+/* @import url("https://corellanstoma.github.io/Powercord/Removed/nitro-home.css"); */
 
 /* Removed | Removed the chat header at the beginning of the chat. */
-/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/chat-header.css"); */
+/* @import url("https://corellanstoma.github.io/Powercord/Removed/chat-header.css"); */
 
 /* Removed | Removed the Nitro & Gif Button in the Chatbox. Gifs can still be selected using the Emoji button. */
-/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/gif-nitro-chat.css"); */
+/* @import url("https://corellanstoma.github.io/Powercord/Removed/gif-nitro-chat.css"); */
 
 /* Removed | Removed the closed folder background. */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/closed-folder-background.css");
+@import url("https://corellanstoma.github.io/Powercord/Removed/closed-folder-background.css");
 
 /* Removed | Removed the Note on the User Profile. */
-/* @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Removed/removed-profile-note.css"); */
+/* @import url("https://corellanstoma.github.io/Powercord/Removed/removed-profile-note.css"); */
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Database |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 /* Database | CreArts*/
-@import url('https://raw.githack.com/CorellanStoma/Powercord/assets/Database/usrbg-crearts.css');
+@import url('https://corellanstoma.github.io/Powercord/Database/usrbg-crearts.css');
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Fonts ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
@@ -116,7 +116,7 @@
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 /* Plugins | Changed the design from "Better Formatting Redux" */
-@import url('https://raw.githack.com/CorellanStoma/Powercord/assets/Plugins/better-formatting-redux.css');
+@import url('https://corellanstoma.github.io/Powercord/Plugins/better-formatting-redux.css');
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
@@ -132,7 +132,7 @@
 /*||| Version ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
---version: "v1.2.1 (Beta) (Default Edition)"; /*Theme Version*/
+--version: "v1.2.2 (Beta) (Default Edition)"; /*Theme Version*/
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Settings |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
