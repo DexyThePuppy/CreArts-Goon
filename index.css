@@ -125,9 +125,6 @@
 /* Plugins | Home Button Fix */
 /*@import url('https://corellanstoma.github.io/Powercord/Fix/home-button.css');*/
 
-/* Plugins | Spotify Free Edition Fix */
-/*@import url('https://corellanstoma.github.io/Powercord/Fix/spotify.css');*/
-
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Theme Settings |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
@@ -3287,6 +3284,24 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 /* Seek Bar Progress */
 
 .powercord-spotify .spotify-extra-controls + .spotify-seek {
+    position: fixed;
+    z-index: 9;
+    right: 30px;
+    width: 170px;
+    bottom: 70px;
+}
+
+.powercord-spotify .spotify-seek {
+    position: fixed;
+    z-index: 9;
+    right: 30px;
+    width: 170px;
+    bottom: 70px;
+    }
+
+
+.powercord-spotify .spotify-seek:hover {
+    background: var(--Color005);
     position: fixed;
     z-index: 9;
     right: 30px;
