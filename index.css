@@ -2896,7 +2896,7 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 
 /* Background */
 
-:root .autocomplete-Z9HwQh{
+.theme-dark .autocomplete-1vrmpx {
     background: var(--Color005);
     bottom: calc(100% - 8px);
     border-radius: 24px;
@@ -2908,13 +2908,13 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 
 /* Header */
 
-:root .contentTitle-2tG_sM{
+:root .contentTitle-2tG_sM {
     color: var(--Color006);
 }
 
 /* Selector */
 
-:root .selectorSelected-1_M1WV{
+.theme-dark .selected-1Tbx07 {
     background: var(--Color003);
 	border-radius: 90px;
 }
