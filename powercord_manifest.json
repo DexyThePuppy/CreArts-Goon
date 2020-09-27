@@ -2,8 +2,9 @@
     "name": "CreArts v1.2.3 (Beta) (Spotify)",
     "description": "Spotify Edition",
     "version": "1.2.3",
-    "author": "CorellanStoma#1996",
+    "license": "MIT",
     "theme": "index.css",
-    "consent": "true",
-    "license": "MIT"
+    "author": "CorellanStoma#1996",
+    "preview": [ "https://i.imgur.com/XJ1uDoR.png" ],
+    "discord": "8W8E39Z"
 }
