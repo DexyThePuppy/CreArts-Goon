@@ -2,7 +2,7 @@
 
 # CreArts | MK's Theme v1.2.4 (Beta) (Goon Edition)
 
-Heya! This mk, and this is my edit of CreArts Spotify Discord theme in my Custom Goon Color Palette with some detail edits!
+Heya! This is mk, and this is my edit of CreArts Spotify Discord theme in my Custom Goon Color Palette with some detail edits!
 I hope this style becomes a offical variant of the source theme!
 
 Thank you for downloading and trying this style out!
