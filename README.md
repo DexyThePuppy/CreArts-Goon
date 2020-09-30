@@ -1,14 +1,17 @@
  ![Discord](https://discordapp.com/api/guilds/534376415202639903/embed.png) ![GitHub](https://img.shields.io/github/license/CorellanStoma/CreArts-Spotify)
 
-# CreArts Theme v1.2.3 (Beta) (Spotify Edition)
+# CreArts | MK's Theme v1.2.4 (Beta) (Goon Edition)
 
-This is my first discord theme, it's a round theme for Discord. The theme is currently still in the beta phase.
+Heya! This mk, and this is my edit of CreArts Spotify Discord theme in my Custom Goon Color Palette with some detail edits!
+I hope this style becomes a offical variant of the source theme!
 
-![Preview](https://i.imgur.com/XJ1uDoR.png)
+Thank you for downloading and trying this style out!
+
+[W.I.P.]
 
 ## Preview
 
-![Spotify](https://i.imgur.com/MDqZrlG.png)
+[W.I.P.]
 
 ## Instalation
 Coming Soon
