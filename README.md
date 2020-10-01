@@ -7,6 +7,8 @@ I hope this style becomes a offical variant of the source theme!
 
 Thank you for downloading and trying this style out!
 
+![](https://i.imgur.com/4ZaG0O7.png)
+
 ## Preview
 
 ![](https://i.imgur.com/L382JzJ.png)
