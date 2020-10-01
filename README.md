@@ -12,6 +12,7 @@ Thank you for downloading and trying this style out!
 ## Preview
 
 ![](https://i.imgur.com/L382JzJ.png)
+![](https://i.imgur.com/DLaenku.png)
 
 ## Instalation
 Coming Soon
