@@ -1048,8 +1048,10 @@
 }
 
 .expandedFolderBackground-2sPsd- {
-    background: var(--Color003);
+    background: var(--Color005);
     border-radius: var(--Radius002);
+	padding-left: 5px;
+    padding-right: 5px;
 }
 
 /* Round Home Button */
@@ -1111,7 +1113,7 @@
 /* Selector */
 
 .modeSelected-1zApJ_ .content-3at_AU, .modeSelected-1zApJ_:hover .content-3at_AU {
-    background-color: var(--Color003);
+    background-color: var(--Color005);
 	border-radius: var(--Radius001);
 }
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
