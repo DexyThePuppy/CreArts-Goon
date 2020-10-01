@@ -7,11 +7,9 @@ I hope this style becomes a offical variant of the source theme!
 
 Thank you for downloading and trying this style out!
 
-[W.I.P.]
-
 ## Preview
 
-[W.I.P.]
+![](https://i.imgur.com/L382JzJ.png)
 
 ## Instalation
 Coming Soon
