@@ -975,13 +975,13 @@
 }
 
 .scroller-2TZvBN {
-	background-color: var(--Color004);
-    margin-bottom: 12px;
-    margin-top: 12px;
-    border-top-left-radius: 12px;
+    background-color: var(--Color004);
+    margin-bottom: 65px;
+    margin-top: 70px;
+    border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
-    border-bottom-left-radius: 12px;
+    border-bottom-left-radius: 0px;
 }
 
 .layer-3QrUeG.baseLayer-35bLyl {
@@ -1012,8 +1012,8 @@
     top:calc(var(--titlebar-height) + 13px);
 	box-shadow: 0px 0px 12px 0px #252A33;
 	border-top-left-radius: 12px;
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
     border-bottom-left-radius: 12px;
 }
 
@@ -1028,8 +1028,8 @@
     bottom: 12px;
     box-shadow: 0px 0px 12px 0px #252A33;
     border-top-left-radius: 12px;
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
     border-bottom-left-radius: 12px;
 }
 
@@ -3415,7 +3415,7 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 
 .wordmarkWindows-1v0lYD {
     width: 100vw;
-    background: var(--goon-primary-brighter);
+    background: var(--goon-primary-bg);
     padding: 0;
     display: flex;
     align-items: center;
@@ -3453,6 +3453,10 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 	border-radius: 24px;
 }
 
+.bar-30k2ka {
+	border-radius: 8px;
+}
+
 .theme-dark .checkbox-1ix_J3 {
     border-color: var(--goon-primary-brighter);
     background: var(--goon-primary-brighter);
@@ -3485,6 +3489,14 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 
 .powercord-updater .buttons, .powercord-updater .update {
 	border: none !important;
+}
+
+.wordmarkWindows-1v0lYD::after {
+    content: "\a CreArts " var(--version);
+    color: var(--titlebar-text-color);
+    font-size: var(--titlebar-font-size);
+    font-weight: 600;
+    font-family: 'Segoe UI';
 }
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
