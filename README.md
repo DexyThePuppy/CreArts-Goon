@@ -32,10 +32,10 @@ Discord Canary (Powercord will only work with Canary!)
 2. Open a command prompt / terminal of your choice (e.g. CMD if you’re on Windows, or Terminal if you’re using Linux/macOS). Do not open your terminal as an administrator! Powercord will fail injecting if you do so.
 3. In chronological order, type each of these commands using the command prompt / terminal opened in Step 1:
 
- - `git clone https://github.com/powercord-org/powercord`
- - `cd powercord`
- - `npm i`
- - `npm run plug` (Linux users: you'll need to run this command with sudo)
+  - `git clone https://github.com/powercord-org/powercord`
+  - `cd powercord`
+  - `npm i`
+  - `npm run plug` (Linux users: you'll need to run this command with sudo)
 
-Completely kill your Discord Client (right-click Discord in the System Tray -> “Quit DiscordCanary”)
+4. Completely kill your Discord Client (right-click Discord in the System Tray -> “Quit DiscordCanary”)
 Start Discord back up and Powercord should be injected!
