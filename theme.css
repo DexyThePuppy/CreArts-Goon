@@ -2378,8 +2378,8 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
     margin-left: 12px;
     padding: 8px 14px 8px 8px;
     width: 230px;
-    background: var(--Color002);
-	border-radius: var(--Radius002);
+    background: var(--goon-secondary-bg)
+	border-radius: 12px;
 	border: none;
 }
 
